@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "latestAnswer",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"col_tokenV1_flattened.sol": "IExternalPriceOracle"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"col_tokenV1_flattened.sol": {
+			"keccak256": "0x4127f0835408dc98c3a41ac7da26078157a1e72c3883c193aa258786dba4442b",
+			"urls": [
+				"bzz-raw://0df383c7dd704ff59c7b4f0b4adf214d897b47c38153459cacbb81cdc4c43fc3",
+				"dweb:/ipfs/QmQJW2wY763dWRva33UnFLNBQwwXbHwmjfGWzyn9x6JdvH"
+			]
+		}
+	},
+	"version": 1
+}
